@@ -1,0 +1,21 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  background-color: #7bccd354;
+}
+.wrapper{
+ padding: 2rem 5rem;
+ display: flex;
+}
+.card-event{
+  border-left: 10px solid #0F4C81;
+  background: #FFE4C8;
+  
+}
+.test{
+  border: none !important;
+}
+.table_day{
+  height: 120px
+}
